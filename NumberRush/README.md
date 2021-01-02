@@ -9,7 +9,7 @@ The higher your points, the faster it will go. **The speed is uncapped.**
 ### Problems with my code?
 Let me know! I'm only trying to get better. Any feedback, positive or negative, is appreciated, just make sure it's constructive please! "It's s***" doesn't get anyone anywhere.
 
-### Aknowledgements
+### Acknowledgements
 The drawing code has been heavily modified, however originates from the [OLC Tetris Project](https://github.com/OneLoneCoder/videos/blob/master/OneLoneCoder_Tetris.cpp). I recommend checking it out!
 
 Thank you for checking out Number Rush!
